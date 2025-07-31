@@ -2,10 +2,10 @@
   "name": "app",
   "version": "1.0.0",
   "main": "app.js",
- "scripts": {
-  "start": "node index.js",
-  "test": "echo \"No tests yet. Skipping...\""
-},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet. Skipping...\""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/VishwaMTGowda/Node-App.git"
